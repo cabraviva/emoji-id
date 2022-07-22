@@ -1,4 +1,4 @@
-# emojiid
+# emoid
  Create 😎 Emoji IDs instead of uuids because they are more 🧑🏻 friendly
 
 # Usage
