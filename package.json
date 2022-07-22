@@ -1,0 +1,31 @@
+{
+  "name": "emoji-id",
+  "version": "1.0.0",
+  "description": "Create 😎 Emoji IDs instead of uuids because they are more 🧑🏻 friendly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/emoji-id.git"
+  },
+  "keywords": [
+    "emoji",
+    "id",
+    "ids",
+    "uuid",
+    "emojiid",
+    "smiley",
+    "smileyid"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/emoji-id/issues"
+  },
+  "homepage": "https://github.com/greencoder001/emoji-id#readme",
+  "dependencies": {
+    "emoji-json-list": "^1.0.0"
+  }
+}
