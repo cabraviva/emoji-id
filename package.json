@@ -1,6 +1,6 @@
 {
   "name": "emoid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create 😎 Emoji IDs instead of uuids because they are more 🧑🏻 friendly",
   "main": "index.js",
   "scripts": {
