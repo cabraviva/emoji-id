@@ -1,5 +1,5 @@
 {
-  "name": "emoji-id",
+  "name": "emojiid",
   "version": "1.0.0",
   "description": "Create 😎 Emoji IDs instead of uuids because they are more 🧑🏻 friendly",
   "main": "index.js",
